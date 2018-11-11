@@ -1,0 +1,22 @@
+1) What are the most popular three articles of all time?
+ 2) Who are the most popular article authors of all time?
+ 3) On which days did more than 1% of requests lead to errors?
+Chooes the question you wanna the database answer above by number: 1
+Candidate is jerk - 338647 views
+Bears love berries - 253801 views
+Bad things gone - 170098 views
+Another Question? (Y\N)Y
+1) What are the most popular three articles of all time?
+ 2) Who are the most popular article authors of all time?
+ 3) On which days did more than 1% of requests lead to errors?
+Chooes the question you wanna the database answer above by number: 2
+The most popular article authors is Rudolf von Treppenwitz
+Another Question? (Y\N)Y
+1) What are the most popular three articles of all time?
+ 2) Who are the most popular article authors of all time?
+ 3) On which days did more than 1% of requests lead to errors?
+Chooes the question you wanna the database answer above by number: 3
+in Date  2016-07-17  The error was more than %1.
+Another Question? (Y\N)N
+Program Stopped, Thank you :)
+
